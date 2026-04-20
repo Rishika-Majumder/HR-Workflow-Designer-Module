@@ -13,13 +13,23 @@ The application demonstrates a modular, component-driven architecture with real-
 
 - Drag-and-drop node creation from a left sidebar
 - Custom node types with visual color coding:
-  - Start Node (Green)
-  - Task Node (Blue)
-  - Approval Node (Yellow)
-  - Automated Step Node (Purple)
-  - End Node (Red)
+  - Start Node
+  - Task Node
+  - Approval Node
+  - Automated Step Node
+  - End Node
 - Real-time validation
 - Workflow Automation (Mock API)
+
+## Bonus Features
+
+- Export & Import workflows as JSON  
+- Undo / Redo support for workflow actions  
+- Mini-map & zoom controls for better canvas navigation  
+- Visual validation feedback on nodes (errors & constraints)  
+- Auto-layout support for improved workflow structuring  
+- Node versioning support for tracking changes  
+
 
 ## Architecture
 <p align="center">

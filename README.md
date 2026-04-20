@@ -43,3 +43,22 @@ A modern **React + TypeScript workflow builder** for HR processes with read-time
 - Vite
 - React Flow
 - Mock API
+
+## Design Decisions
+- **Mock API Layer** - Simulates backend without requiring actual server
+- **TypeScript** - Ensures type safety across all components
+- **Component-Based Architecture** - Easy to extend with new node types
+- **Controlled Form State** - Direct manipulation of workflow state for real-time updates
+
+## What's Completed
+- 5 customizable node types (Start, Task, Approval, Automated, End)
+- Real-time graph validation with cycle detection
+- Workflow simulation & execution testing
+- Drag-and-drop canvas interface
+- Dynamic node configuration forms
+- Mock API integration for automations
+
+## Future Enhancements
+- Auto-layout algorithm for workflow canvas
+- Authentication & multi-user collaboration
+- Pre-built workflow templates library

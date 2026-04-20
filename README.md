@@ -1,6 +1,8 @@
 # HR Workflow Designer
 
-A modern **React + TypeScript workflow builder** for HR processes with read-time validation, simulation and analytics.
+A modern, scalable workflow builder built with **React** and **TypeScript** that enables HR teams to visually design, validate, and simulate complex business processes. 
+
+The application demonstrates a modular, component-driven architecture with real-time validation, dynamic node configuration, and a sandbox environment for testing workflow execution — closely mirroring real-world system design and interaction patterns.
 
 # Live Demo
 [Open Project](https://hr-workflow-designer-module-hivq.vercel.app/)

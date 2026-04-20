@@ -3,7 +3,7 @@
 A modern **React + TypeScript workflow builder** for HR processes with read-time validation, simulation and analytics.
 
 # Live Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://hr-workflow-designer-module-hivq.vercel.app/)
+[Open Project](https://hr-workflow-designer-module-hivq.vercel.app/)
 
 ## Core Features
 
@@ -25,12 +25,12 @@ A modern **React + TypeScript workflow builder** for HR processes with read-time
 </p>
 
 ## Workflow
-<p aligh="center">
+<p align="center">
   <img src="./Tredence/docs/workflow.jpeg" width="600" height="400" />
 </p>
 
 ## Preview
-<p aligh="center">
+<p align="center">
   <img src="./Tredence/docs/preview.png" width="600" />
 </p>
 
@@ -83,4 +83,3 @@ A modern **React + TypeScript workflow builder** for HR processes with read-time
 
 ## Deployed On
 This project is live at: https://hr-workflow-designer-module-hivq.vercel.app/
-Built with Vite for lightning-fast builds and deployment.

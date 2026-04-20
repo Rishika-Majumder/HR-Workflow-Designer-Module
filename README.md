@@ -19,13 +19,13 @@ A modern **React + TypeScript workflow builder** for HR processes with read-time
 - Workflow Automation (Mock API)
 
 ## Architecture
-![Architecture Diagram](./Tredence/docs/image.png)
+<img src="./Tredence/docs/image.png" width="600" height="400" />
 
 ## Workflow
-![Workflow Diagram](./Tredence/docs/workflow.jpeg)
+<img src="./Tredence/docs/workflow.jpeg" width="600" height="400" />
 
 ## Preview
-![Preview](./Tredence/docs/preview.png)
+<img src="./Tredence/docs/preview.png" width="600" height="400" />
 
 ## Run Locally
 - Clone Repo: git clone https://github.com/yourusername/hr-workflow-designer.git
